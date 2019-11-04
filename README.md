@@ -1,4 +1,4 @@
-This repo contains two python jupyter notebooks
+This repo contains three python jupyter notebooks
 
 project3_wine.ipynb - Code to run dimensionality reduction and clustering algorithms for wine dataset
 project3_adult.ipynb - Code to run dimensionality reduction and clustering algorithms for adult dataset
